@@ -1,0 +1,17 @@
+# Site settings
+title: Beech Close Community Allotments
+title_short: Beech Close
+email: office@beechclosecommunityallotments.co.uk
+tagline: Community allotments located on Beech Close, Alderley Edge.
+description: Community allotments located on Beech Close, Alderley Edge.
+logo: /img/logo.jpg
+google_site_verification:
+locale: en_GB
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "https://www.beechclosecommunityallotments.co.uk" # the base hostname & protocol for your site
+
+
+instagram_url: https://www.instagram.com/beechclosecommunityallotments/
+
+# Build settings
+markdown: kramdown
